@@ -13,7 +13,7 @@ cmake \
 ..
 #2. Now, install hipify in the same build location:
 make -j install
-#3. Now, to set up the hipify command, use the following command:
+#3. To set up the hipify command, use the following command:
 echo 'alias hipify=~/HIP/hipify-clang/dist/bin/./hipify-clang' >> ~/.bashrc
 #Reload the Bash shell:
 . ~/.bashrc
