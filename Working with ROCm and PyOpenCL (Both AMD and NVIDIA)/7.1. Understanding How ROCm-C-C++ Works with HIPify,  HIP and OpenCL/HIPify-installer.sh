@@ -17,4 +17,5 @@ make -j install
 echo 'alias hipify=~/HIP/hipify-clang/dist/bin/./hipify-clang' >> ~/.bashrc
 #Reload the Bash shell:
 . ~/.bashrc
-#Run HIPify as "hipify CUDA-program.cu to HIP-program.cpp"
+cd ~
+echo "Now you can run HIPify as "hipify CUDA-program.cu -o HIP-program.cpp""
