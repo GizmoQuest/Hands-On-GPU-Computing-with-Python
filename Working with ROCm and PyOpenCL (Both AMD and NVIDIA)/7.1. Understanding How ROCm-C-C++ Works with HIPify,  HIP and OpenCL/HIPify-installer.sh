@@ -19,4 +19,4 @@ echo 'alias hipify=~/HIP/hipify-clang/dist/bin/./hipify-clang' >> ~/.bashrc
 . ~/.bashrc
 cd ~
 echo "Now you can run HIPify as 'hipify CUDA-program.cu -o HIP-program.cpp'"
-echo "For more usage information, "use 'hipify --help'"
+echo "For more usage information, 'use 'hipify --help'"
