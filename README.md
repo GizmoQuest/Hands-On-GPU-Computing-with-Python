@@ -12,7 +12,7 @@ Explore GPU-enabled programmable environments for machine learning, scientific a
     
     Understand parallel processing with PyCUDA, PyOpenCL, CuPy, Numba, Tensorflow, Keras and PyTorch
     
-    Learn to use the CUDA libraries like CuDNN for deep learning on GPUs
+    Learn to use CUDA libraries like CuDNN for deep learning on GPUs
 
 ## Book Description
 
