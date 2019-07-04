@@ -1,6 +1,8 @@
 # [Hands-On GPU Computing with Python](https://www.amazon.in/Hands-GPU-Computing-Python-computational-ebook/dp/B07RXSSXWP/)
 
-#### Companion code for the book to explore the capabilities of GPUs for solving high performance computational problems.
+#### This repository includes companion code for the book that was coded and developed at [GizmoQuest Computing Lab](https://www.gizmoquest.com) to explore the capabilities of GPUs for solving high performance computational problems:
+
+<a href="https://www.packtpub.com/in/big-data-and-business-intelligence/hands-gpu-computing-python?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11179_0.png" alt="Hands-On GPU Computing with Python" height="512px" align="center"></a>
 
 Explore GPU-enabled programmable environments for machine learning, scientific and other diverse applications with Anaconda by using PyCUDA, PyOpenCL, CuPy, Numba, Tensorflow, Keras and PyTorch.
 
