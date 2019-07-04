@@ -38,7 +38,12 @@ By the end of this book, you will be able to set up a GPU ecosystem from scratch
 
 ## Who this book is for
 
-Data Scientists, Machine Learning enthusiasts, Professionals, Computer Science Students and Application Scientists who wants to get started with GPU computation and perform the complex tasks with low-latency. Intermediate knowledge of Python programming is assumed.
+Data Scientists, Machine Learning enthusiasts, Professionals, Computer Science Students and Application Scientists who want to get started with GPU computation and perform the complex tasks with low-latency. Intermediate knowledge of Python programming is assumed.
+
+## Software List
+| Software required | OS required |
+|  ------------------------------------ | ----------------------------------- |
+|  PyCharm Community Edition, PyCharm Educational Edition, PyCharm for Anaconda Community Edition, PyCharm Professional Edition, PyCharm for Anaconda Professional Edition, PyDev, Jupyter Notebook, Jupyter Lab, Eric, CUDA, ROCm, Anaconda, CuPy, Numba, Google Colaboratory, Tensorflow, PyTorch,  DeepChem | Linux (preferably Ubuntu) |
 
 ## Table of Contents
 
