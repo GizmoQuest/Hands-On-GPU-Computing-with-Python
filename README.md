@@ -52,4 +52,4 @@ Data Scientists, Machine Learning enthusiasts, Professionals, Computer Science S
     Working with Anaconda, CuPy and Numba
     Containerization on GPU enabled platforms
     Machine Learning on GPUs: Use cases
-    GPU Acceleration for Scientific Applications using Deepchem
+    GPU Acceleration for Scientific Applications using DeepChem
